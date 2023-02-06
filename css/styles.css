@@ -49,3 +49,7 @@ div[class*="col"] {
 div[class*="container"] {
     min-height: 250px;
 }
+
+h1 {
+    color: blue;
+}
